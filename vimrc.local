@@ -41,3 +41,4 @@ let g:bufExplorerShowRelativePath=1 " use relative paths for buffer explorer
 set undodir=~/.vim/undodir
 set undofile
 
+set transparency=12

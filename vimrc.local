@@ -37,3 +37,7 @@ imap <Tab> <C-N>
 imap <S-Tab> <C-P>
 
 let g:bufExplorerShowRelativePath=1 " use relative paths for buffer explorer
+
+set undodir=~/.vim/undodir
+set undofile
+

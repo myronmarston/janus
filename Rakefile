@@ -146,6 +146,7 @@ vim_plugin_task "markdown",         "git://github.com/tpope/vim-markdown.git"
 vim_plugin_task "align",            "git://github.com/tsaleh/vim-align.git"
 vim_plugin_task "unimpaired",       "git://github.com/tpope/vim-unimpaired.git"
 vim_plugin_task "bufexplorer",      "http://vim.sourceforge.net/scripts/download_script.php?src_id=14208"
+vim_plugin_task "ruby_refactoring", "git://github.com/ecomba/vim-ruby-refactoring.git"
 vim_plugin_task "searchfold",       "git://github.com/vim-scripts/searchfold.vim.git"
 vim_plugin_task "irblack",          "git://github.com/wgibbs/vim-irblack.git"
 
